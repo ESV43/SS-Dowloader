@@ -1,0 +1,7 @@
+fastapi==0.136.1
+httpx==0.28.1
+curl_cffi==0.16.3
+Pillow==12.3.0
+img2pdf==0.6.3
+pikepdf==10.8.0
+python-pptx==1.0.2
